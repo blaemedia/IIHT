@@ -1,1 +1,3 @@
 My name is Emmanuel
+I am now working with git
+I am now using git
